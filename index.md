@@ -41,7 +41,7 @@ This project is related to mine because *insert reasons here*.
 
 https://www.youtube.com/watch?v=bV71tsuOo8A
 
-![Image](related1.gif)
+![Image](related4.png)
 
 This project is related to mine because *insert reasons here*.
 
