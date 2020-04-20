@@ -63,5 +63,7 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
+I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. 
+
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
