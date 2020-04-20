@@ -10,13 +10,58 @@ Interactive costume - Robot head
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+*Creepy Doll face t-shirt*
 
 https://www.morphsuits.com/creepy-doll-face-t-shirt-us
 
 ![Image](related1.gif)
 
 This project is related to mine because *insert reasons here*.
+
+### Related project 2 ###
+*Animatronic Wings*
+
+https://www.boredpanda.com/maleficent-cosplay-animatronic-wings-drisana-litke-drizzy-designs/?utm_source=google&utm_medium=organic&utm_campaign=organic
+
+![Image](related1.gif)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 3 ###
+*Bear costume*
+
+https://www.youtube.com/watch?v=0cQ91lO4pH0
+
+![Image](related1.gif)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 4 ###
+*Insert name of project*
+
+URL
+
+![Image](related1.gif)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 5 ###
+*Insert name of project*
+
+URL
+
+![Image](related1.gif)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 6 ###
+*Insert name of project*
+
+URL
+![Image](related1.gif)
+
+This project is related to mine because *insert reasons here*.
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
