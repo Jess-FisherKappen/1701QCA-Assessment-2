@@ -12,9 +12,9 @@ Interactive costume - Robot head
 ### Related project 1 ###
 *Insert name of project*
 
-*Insert URL to project*
+https://www.morphsuits.com/creepy-doll-face-t-shirt-us
 
-![Image](missingimage.png)
+![Image](related1.gif)
 
 This project is related to mine because *insert reasons here*.
 
