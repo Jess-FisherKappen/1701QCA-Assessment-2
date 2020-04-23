@@ -24,7 +24,7 @@ https://www.boredpanda.com/maleficent-cosplay-animatronic-wings-drisana-litke-dr
 
 ![Image](related2.gif)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because like mine, her wings are interactive. They may not be interactive with others in the sense that others can control it, but she can control it to seem interactive with the surroundings. 
 
 ### Related project 3 ###
 *Bear costume*
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=0cQ91lO4pH0
 
 ![Image](related3.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it shows a more intricate way of how to make a costume. Despite Adam Savage recreating a more realistic costume than me, I still got a good insight and some tips on making a costume. 
 
 ### Related project 4 ###
 *Microbit:a simple board for props and cosplay*
