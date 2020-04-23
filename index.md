@@ -7,7 +7,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Interactive robot head
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 *Creepy Doll face t-shirt*
