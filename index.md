@@ -46,11 +46,11 @@ https://www.youtube.com/watch?v=bV71tsuOo8A
 This project is related to mine because *insert reasons here*.
 
 ### Related project 5 ###
-*Insert name of project*
+*EVA foam breastplate*
 
-URL
+https://www.kamuicosplay.com/2016/12/06/foamcos-2/
 
-![Image](related1.gif)
+![Image](related5.jpg)
 
 This project is related to mine because *insert reasons here*.
 
