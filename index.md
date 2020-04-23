@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=bV71tsuOo8A
 
 ![Image](related4.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it shows you how a microbit can be used to enhance a costume by adding lights. Although my costume will not have lights, it's stil interesting seeing the many uses of the microbit. 
 
 ### Related project 5 ###
 *EVA foam breastplate*
@@ -51,7 +51,7 @@ https://www.kamuicosplay.com/2016/12/06/foamcos-2/
 
 ![Image](related5.jpg)
 
-This project is related to mine because it uses a material for creating the parts of the costume called EVA foam.
+This project is related to mine because it uses a material for creating the parts of the costume called EVA foam. This is the same matieral that I have been experimenting with and using for my robot head. 
 
 
 ## Other research ##
