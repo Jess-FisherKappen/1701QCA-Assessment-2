@@ -23,7 +23,7 @@ This project is related to mine because *insert reasons here*.
 
 https://www.boredpanda.com/maleficent-cosplay-animatronic-wings-drisana-litke-drizzy-designs/?utm_source=google&utm_medium=organic&utm_campaign=organic
 
-![Image](related1.gif)
+![Image](related2.gif)
 
 This project is related to mine because *insert reasons here*.
 
@@ -32,7 +32,7 @@ This project is related to mine because *insert reasons here*.
 
 https://www.youtube.com/watch?v=0cQ91lO4pH0
 
-![Image](related1.gif)
+![Image](related3.png)
 
 This project is related to mine because *insert reasons here*.
 
