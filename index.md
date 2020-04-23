@@ -64,7 +64,7 @@ This project is related to mine because it uses a material for creating the part
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+I would like to make a costume that can interact with its surroundings instead of just being static like a lot of the costumes that are currently available. 
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
