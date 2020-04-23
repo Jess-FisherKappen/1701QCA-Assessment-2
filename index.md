@@ -4,7 +4,7 @@
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/]
 
 ## Project working title ##
-Interactive costume - Robot head
+Interactive robot head
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -52,15 +52,7 @@ https://www.kamuicosplay.com/2016/12/06/foamcos-2/
 
 ![Image](related5.jpg)
 
-This project is related to mine because *insert reasons here*.
-
-### Related project 6 ###
-*Insert name of project*
-
-URL
-![Image](related1.gif)
-
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses a material for creating the parts of the costume called EVA foam.
 
 
 ## Other research ##
