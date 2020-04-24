@@ -64,11 +64,9 @@ This project is related to mine because it uses a material for creating the part
 I would like to make a costume that can interact with its surroundings instead of just being static like a lot of the costumes that are currently available. 
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+A costume with a light attached to it. When someone comes too close to you, the light turns on and starts flashing, and a beeping sound will slowly start to be projected. The closer someone gets, the faster the beeping becomes. 
 
 ![Image](design1.jpg)
-
-A costume with a light attached to it. When someone comes too close to you, the light turns on and starts flashing, and a beeping sound will slowly start to be projected. The closer someone gets, the faster the beeping becomes. 
 
 ### Design concept 2 ###
 A costume that cools you down. It gets hot in costumes, and when the temperature in costumes reaches certain degrees, a fan would automatically turn on.
@@ -76,9 +74,7 @@ A costume that cools you down. It gets hot in costumes, and when the temperature
 ![Image](design2.jpg)
 
 ### Final design concept ###
-A costume that has facial expressions. You would be able to control it so that it can portray different emotions such as happy or sad.
-
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+A costume that has facial expressions. You would be able to control it so that it can portray different emotions such as happy or sad. I like the idea of recreating Bender from Futurama with EVA foam for the head and styrofoam for the eyes. It would need to look sleek and not have any wires showing, so there would need to be a compartment in the head. 
 
 ### Interaction flowchart ###
 
