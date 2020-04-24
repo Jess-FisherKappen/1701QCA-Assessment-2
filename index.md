@@ -103,7 +103,12 @@ This is my original, paper prototype that I had made of my robot head. This was 
 ![Image](bender12.jpg)
 ![Image](bender13.jpg)
 ![Image](bender14.jpg)
-![Image](code.jpg)
+
+![Image](code.png)
+This is my original code that I will be working with for my head. 
+
+![Image](wires.png)
+This is my initial wires setup for the microbit. Both servos work well, however I still need to fix the wiring so that the sound can play through the speaker. 
 
 ## Design process discussion ##
 I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. While doing some research, I had noticed a lot of people that make costumes use a material called EVA foam as it was lightweight but still created something that could look realistic. 
