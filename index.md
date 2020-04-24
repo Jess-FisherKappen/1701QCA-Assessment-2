@@ -52,11 +52,10 @@ This project is related to mine because it uses a material for creating the part
 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying tutorials, videos,  or other resources that have been helpful.*
 
-### *Brief resource name/description* ###
-
-*Provide a link for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+### *Heating EVA Foam* ###
+https://www.youtube.com/watch?v=6DVUlJ8JJzY
+This link showed me how I can work with and shape the EVA foam to form a dome that is on the top of my robot's head. 
 
 ## Conceptual progress ##
 
