@@ -81,9 +81,8 @@ A costume that has facial expressions. You would be able to control it so that i
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flow.jpg)
 
 ## Physical experimentation documentation ##
 
@@ -92,9 +91,21 @@ a.	Technical development. Could be code screenshots, pictures of electronics and
 b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
 Ensure you include comments about the choices you've made along the way.*
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](bender1.jpg)
+![Image](bender2.jpg)
+![Image](bender3.jpg)
+![Image](bender4.jpg)
+![Image](bender5.jpg)
+![Image](bender6.jpg)
+![Image](bender7.jpg)
+![Image](bender8.jpg)
+![Image](bender9.jpg)
+![Image](bender10.jpg)
+![Image](bender11.jpg)
+![Image](bender12.jpg)
+![Image](bender13.jpg)
+![Image](bender14.jpg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
