@@ -83,32 +83,46 @@ A costume that has facial expressions. You would be able to control it so that i
 
 ![Image](bender1.jpg)
 This is my original, paper prototype that I had made of my robot head. This was modelled after Bender the Robot from the TV show Futurama. 
+
 ![Image](bender2.jpg)
 I then got the EVA foam and cut out the rough shape of the head, the eyes and the mouth. 
+
 ![Image](bender3.jpg)
 The EVA foam is stuck together with contact cement.
+
 ![Image](bender4.jpg)
 This piece is for the eye socket. 
+
 ![Image](bender5.jpg)
 Again, it is sealed with contact cement.
+
 ![Image](bender6.jpg)
 I attached the eye socket to the head.  
+
 ![Image](bender7.jpg)
 So that the eye sockets look more realistic, I put a backing through it and also started sealing the gaps in the head. 
+
 ![Image](bender8.jpg)
 I practiced spray painting with a spare sheet of foam. 
+
 ![Image](bender10.jpg)
 I added a lot more sealant to the foam to stop it from absorbing. It turned out better but not great. 
+
 ![Image](bender11.jpg)
 I started to spray a lot of sealant layers on the whole head. 
+
 ![Image](bender12.jpg)
 I started to paint my head in white paint once the sealant dried. 
+
 ![Image](bender13.jpg)
 I painted some styrofoam half-spheres in a light yellow.
+
 ![Image](bender14.jpg)
 I then painted black pupils on and the eyes were finished. 
+
 ![Image](code.png)
 This is my original code that I will be working with for my head. 
+
 ![Image](wires.png)
 This is my initial wires setup for the microbit. Both servos work well, however I still need to fix the wiring so that the sound can play through the speaker. 
 
