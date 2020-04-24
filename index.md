@@ -15,7 +15,7 @@ https://www.morphsuits.com/creepy-doll-face-t-shirt-us
 
 ![Image](related1.gif)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it can also interact with the user and others in some way. Despite the simplicity of being just an application on a smartphone inserted into a shirt, it gives a great illusion of the shirt being more than just static. 
 
 ### Related project 2 ###
 *Animatronic Wings*
@@ -68,7 +68,7 @@ I would like to make a costume that can interact with its surroundings instead o
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+
 
 A costume with a light attached to it. When someone comes too close to you, the light turns on and starts flashing, and a beeping sound will slowly start to be projected. The closer someone gets, the faster the beeping becomes. 
 
@@ -88,11 +88,12 @@ A costume that has facial expressions. You would be able to control it so that i
 
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
 a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
+b.	Fabrication. 
 Ensure you include comments about the choices you've made along the way.*
 
 
 ![Image](bender1.jpg)
+This is my original, paper prototype that I had made of my robot head. This was modelled after Bender the Robot from the TV show Futurama. 
 ![Image](bender2.jpg)
 ![Image](bender3.jpg)
 ![Image](bender4.jpg)
