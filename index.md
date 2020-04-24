@@ -123,7 +123,7 @@ I then painted black pupils on and the eyes were finished.
 ![Image](code.png)
 This is my original code that I will be working with for my head. 
 
-![Image](wires.png)
+![Image](wires.jpg)
 This is my initial wires setup for the microbit. Both servos work well, however I still need to fix the wiring so that the sound can play through the speaker. 
 
 ## Design process discussion ##
