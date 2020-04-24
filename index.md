@@ -109,9 +109,8 @@ This is my original, paper prototype that I had made of my robot head. This was 
 ![Image](bender14.jpg)
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
-I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. 
+I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. While doing some research, I had noticed a lot of people that make costumes use a material called EVA foam as it was lightweight but still created something that could look realistic. 
 
 ## Next steps ##
 I still need to finish off making the robot head look more presentable by addings the eyes and the microbit. I intend to cut holes between the eyes and hide the microbit within the head so that there is an extension that moves the eyelids without seeing all the wires. The microbit still needs alteration as well. I believe the code is sufficient, but the wiring has to change in order for both servos to work with the potential of the speaker as well. I also need to figure out a way to keep the head steady for the user without them having to hold onto the head so that it doesn't move involuntarily. 
