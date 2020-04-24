@@ -1,8 +1,5 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/]
-
 ## Project working title ##
 Interactive robot head
 
