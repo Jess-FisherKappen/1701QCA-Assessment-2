@@ -66,11 +66,14 @@ I would like to make a costume that can interact with its surroundings instead o
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
+![Image](design1.jpg)
 
 A costume with a light attached to it. When someone comes too close to you, the light turns on and starts flashing, and a beeping sound will slowly start to be projected. The closer someone gets, the faster the beeping becomes. 
 
 ### Design concept 2 ###
 A costume that cools you down. It gets hot in costumes, and when the temperature in costumes reaches certain degrees, a fan would automatically turn on.
+
+![Image](design2.jpg)
 
 ### Final design concept ###
 A costume that has facial expressions. You would be able to control it so that it can portray different emotions such as happy or sad.
@@ -106,7 +109,6 @@ This is my original, paper prototype that I had made of my robot head. This was 
 ![Image](bender14.jpg)
 
 ## Design process discussion ##
-
 I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. While doing some research, I had noticed a lot of people that make costumes use a material called EVA foam as it was lightweight but still created something that could look realistic. 
 
 ## Next steps ##
