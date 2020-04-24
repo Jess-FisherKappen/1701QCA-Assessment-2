@@ -81,31 +81,34 @@ A costume that has facial expressions. You would be able to control it so that i
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. 
-Ensure you include comments about the choices you've made along the way.*
-
-
 ![Image](bender1.jpg)
 This is my original, paper prototype that I had made of my robot head. This was modelled after Bender the Robot from the TV show Futurama. 
 ![Image](bender2.jpg)
+I then got the EVA foam and cut out the rough shape of the head, the eyes and the mouth. 
 ![Image](bender3.jpg)
+The EVA foam is stuck together with contact cement.
 ![Image](bender4.jpg)
+This piece is for the eye socket. 
 ![Image](bender5.jpg)
+Again, it is sealed with contact cement.
 ![Image](bender6.jpg)
+I attached the eye socket to the head.  
 ![Image](bender7.jpg)
+So that the eye sockets look more realistic, I put a backing through it and also started sealing the gaps in the head. 
 ![Image](bender8.jpg)
-![Image](bender9.jpg)
+I practiced spray painting with a spare sheet of foam. 
 ![Image](bender10.jpg)
+I added a lot more sealant to the foam to stop it from absorbing. It turned out better but not great. 
 ![Image](bender11.jpg)
+I started to spray a lot of sealant layers on the whole head. 
 ![Image](bender12.jpg)
+I started to paint my head in white paint once the sealant dried. 
 ![Image](bender13.jpg)
+I painted some styrofoam half-spheres in a light yellow.
 ![Image](bender14.jpg)
-
+I then painted black pupils on and the eyes were finished. 
 ![Image](code.png)
 This is my original code that I will be working with for my head. 
-
 ![Image](wires.png)
 This is my initial wires setup for the microbit. Both servos work well, however I still need to fix the wiring so that the sound can play through the speaker. 
 
@@ -113,4 +116,4 @@ This is my initial wires setup for the microbit. Both servos work well, however 
 I have started to develop an interest in costumes that serve a greater purpose than just someone wearing the costume. I've noticed a greater demand in people wanting interactive/moving costumes to greater recreate the person/character that they are costuming. People either don't know how to make the costume more interactive, or they pay someone else a lot of money to create it for them. While doing some research, I had noticed a lot of people that make costumes use a material called EVA foam as it was lightweight but still created something that could look realistic. 
 
 ## Next steps ##
-I still need to finish off making the robot head look more presentable by addings the eyes and the microbit. I intend to cut holes between the eyes and hide the microbit within the head so that there is an extension that moves the eyelids without seeing all the wires. The microbit still needs alteration as well. I believe the code is sufficient, but the wiring has to change in order for both servos to work with the potential of the speaker as well. I also need to figure out a way to keep the head steady for the user without them having to hold onto the head so that it doesn't move involuntarily. 
+I still need to finish off making the robot head look more presentable by addings the eyes and the microbit. I intend to cut holes between the eyes and hide the microbit within the head so that there is an extension that moves the eyelids without seeing all the wires. The microbit still needs alteration as well. I believe the code is sufficient, but the wiring has to change in order for both servos to work with the potential of the speaker as well. I also need to figure out a way to keep the head steady for the user without them having to hold onto the head so that it doesn't move involuntarily. Additionally, I need to have a way to see out of the mouth without people being able to see inside the head. 
